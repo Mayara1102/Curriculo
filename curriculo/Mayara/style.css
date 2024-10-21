@@ -1,0 +1,26 @@
+.conteudo {
+    color: black;
+    background-color: pink;
+    width: 1600px;
+    height: 1300px;
+}
+
+.img{
+
+    background-color: #F08080  ;
+    border-radius: 5px;
+    padding: 20px;
+    float: right;
+    width: 300px;
+    height: 1300px;
+}
+
+h1{
+    font-family: Georgia, serif;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
